@@ -1,6 +1,7 @@
 import numpy as np
 from CFSmethod.mutual_information import su_calculation
 
+
 def merit_calculation(X, y):
     """
     This function calculates the merit of X given class labels y, where
