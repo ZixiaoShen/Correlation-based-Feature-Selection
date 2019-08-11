@@ -1,5 +1,5 @@
 import numpy as np
-
+from CFSmethod.mutual_information import su_calculation
 
 def merit_calculation(X, y):
     """
